@@ -35,8 +35,12 @@ I’m passionate about creating secure, efficient, and user-focused applications
 ### 📫 Let’s Connect
 - 🌐 [Portfolio Website](https://orjiude.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/henry-orjiude-b27a6583/)
-
 ---
 
-> “Code is more than logic—it's how we empower communities, tell stories, and shape the future.”
+### Thank you for coming around!
+<!-- ![Profile Visits](https://profile-counter.glitch.me/Orjihenry/count.svg) -->
+
+## ![](https://komarev.com/ghpvc/?username=Orjihenry&color=227C9E&style=for-the-badge&label=PROFILE+VISITS)
+
+> Code is more than logic—it's how we empower communities, tell stories, and shape the future...
 
