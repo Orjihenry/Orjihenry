@@ -32,9 +32,10 @@ I’m passionate about creating secure, efficient, and user-focused applications
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Get to know me
 - 🌐 [Portfolio Website](https://orjiude.tech)
 - 💼 [LinkedIn](https://linkedin.com/in/henry-orjiude-b27a6583/)
+- 🧔🏽‍♂️ [Get-Building](https://app.getcoding.ca/reviews/henry-orjiude/)
 ---
 
 ### Thanks for coming around ❤️
