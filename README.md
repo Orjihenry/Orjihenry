@@ -26,7 +26,7 @@ I’m passionate about creating secure, efficient, and user-focused applications
 ---
 
 ### 📌 Projects to Check Out
-- 🔐 [Url Shortener](https://github.com/Orjihenry/url-shortener) – A sleek and simple custom URL shortener — perfect for creating branded, manageable links.
+- 🔐 [Read2Geda](https://read2geda.vercel.app/) – Your Hub for seamless book club experiences.
 - 🏠 [Zenith Zone Realty Listing](https://github.com/Orjihenry/zenithzone) – Lightweight, localStorage-powered listing app.
 - 👦 [AirBnB Clone](https://github.com/Orjihenry/AirBnB_clone_v4) – AirBnB’s frontend with integrated Python backend logic — part of my journey refining OOP, routing, and DOM manipulation skills.
 
